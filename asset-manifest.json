@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bu-all-app/static/css/main.e35086e1.css",
+    "main.js": "/bu-all-app/static/js/main.b95b186c.js",
+    "index.html": "/bu-all-app/index.html",
+    "main.e35086e1.css.map": "/bu-all-app/static/css/main.e35086e1.css.map",
+    "main.b95b186c.js.map": "/bu-all-app/static/js/main.b95b186c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e35086e1.css",
+    "static/js/main.b95b186c.js"
+  ]
+}
